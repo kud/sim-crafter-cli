@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/kud/sim-crafter-cli/issues"
   },
-  "homepage": "https://github.com/kud/sim-crafter-cli#readme",
+  "homepage": "https://kud.io/projects/sim-crafter-cli",
   "author": "Erwann Mest <m@kud.io>",
   "license": "MIT",
   "dependencies": {
